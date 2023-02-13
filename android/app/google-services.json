@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532485141254",
+    "project_id": "fluttersignin-377207",
+    "storage_bucket": "fluttersignin-377207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532485141254:android:8694dc0cd98ce877326487",
+        "android_client_info": {
+          "package_name": "net.ketan.fluttersignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532485141254-28139bgb615e96eb3f9thevridg1j2cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOpc8zbn1LeTao-GPJGCX_Xf3hbV0Y70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532485141254-28139bgb615e96eb3f9thevridg1j2cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
